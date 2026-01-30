@@ -377,6 +377,92 @@
     ],
     "smartTip": "Angola recently abolished tourist visas for US and EU citizens for stays up to 30 days.",
     "officialGovLink": "https://www.smevisa.gov.ao/"
+
+    [
+  {
+    "origin": "United Kingdom",
+    "destination": "Uganda",
+    "govFee": 50.0,
+    "serviceFee": 0.0,
+    "documents": [
+      "Passport with 6 Months Validity",
+      "Yellow Fever Vaccination Certificate",
+      "Recent Passport-size Photograph",
+      "Return Flight Ticket"
+    ],
+    "smartTip": "Uganda has transitioned to a mandatory E-Visa system; ensure you have your approval letter printed before travel as visas on arrival are no longer issued.",
+    "officialGovLink": "https://visas.immigration.go.ug/"
+  },
+  {
+    "origin": "United Kingdom",
+    "destination": "Zambia",
+    "govFee": 0.0,
+    "serviceFee": 0.0,
+    "documents": [
+      "Passport with 6 Months Validity",
+      "Proof of Onward Travel",
+      "Sufficient Funds Declaration"
+    ],
+    "smartTip": "British nationals are visa-exempt for tourism and business visits up to 90 days per calendar year.",
+    "officialGovLink": "https://www.zambiaimmigration.gov.zm/"
+  },
+  {
+    "origin": "United Kingdom",
+    "destination": "Mauritius",
+    "govFee": 0.0,
+    "serviceFee": 0.0,
+    "documents": [
+      "Passport Valid for Duration of Stay",
+      "Mauritius All-in-One Digital Travel Form",
+      "Confirmed Accommodation",
+      "Return Ticket"
+    ],
+    "smartTip": "No visa is required for UK citizens for stays up to 180 days. The digital travel form should be completed 72 hours before arrival.",
+    "officialGovLink": "https://safemauritius.govmu.org/"
+  },
+  {
+    "origin": "United Kingdom",
+    "destination": "Kenya",
+    "govFee": 30.0,
+    "serviceFee": 0.0,
+    "documents": [
+      "Passport with 6 Months Validity",
+      "Electronic Travel Authorisation (eTA)",
+      "Proof of Accommodation",
+      "Travel Itinerary"
+    ],
+    "smartTip": "Kenya is now 'visa-free' but requires a mandatory eTA for all visitors. Apply at least 2 weeks in advance via the official portal.",
+    "officialGovLink": "https://www.etakenya.go.ke/"
+  },
+  {
+    "origin": "United Kingdom",
+    "destination": "Madagascar",
+    "govFee": 10.0,
+    "serviceFee": 0.0,
+    "documents": [
+      "Passport with 6 Months Validity",
+      "Return Flight Ticket",
+      "Entry Administrative Fee"
+    ],
+    "smartTip": "Stays under 15 days are visa-exempt but require a small administrative fee paid upon arrival. For stays up to 30 or 60 days, a paid e-visa is required.",
+    "officialGovLink": "https://evisamada.gov.mg/"
+  },
+  {
+    "origin": "United Kingdom",
+    "destination": "Mozambique",
+    "govFee": 10.0,
+    "serviceFee": 0.0,
+    "documents": [
+      "Passport with 6 Months Validity",
+      "Pre-registration Receipt",
+      "Return Ticket",
+      "Accommodation Confirmation"
+    ],
+    "smartTip": "UK citizens are exempt from visitor visas for stays up to 30 days but must pre-register on the e-visa portal 48 hours before arrival.",
+    "officialGovLink": "https://evisa.gov.mz/"
+  },
+]
+
   },
   {
     "origin": "Germany",
