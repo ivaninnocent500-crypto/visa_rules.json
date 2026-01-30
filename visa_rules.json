@@ -213,6 +213,20 @@
     ],
     "smartTip": "You can pay for your visa on arrival in Euros or USD, or apply via the e-Visa portal.",
     "officialGovLink": "https://evisamada.gov.mg/"
+    {
+"origin": "United Kingdom",
+"destination": "Uganda",
+"govFee": 50.0,
+"serviceFee": 0.0,
+"documents": [
+"Passport with 6 Months Validity",
+"Yellow Fever Vaccination Certificate",
+"Recent Passport-size Photograph",
+"Travel Itinerary / Return Ticket"
+],
+"smartTip": "Uganda is a 'strict' E-Visa country; you must apply online and receive an approval letter before boarding. Visas on arrival are no longer standard.",
+"officialGovLink": "https://visas.immigration.go.ug/"
+}
   },
   {
     "origin": "Netherlands",
