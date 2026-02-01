@@ -1,478 +1,251 @@
 [
   {
     "origin": "United States",
-    "destination": "Tanzania",
-    "govFee": 100.0,
-    "serviceFee": 32.0,
+    "destination": "Kenya",
+    "govFee": 32.5,
+    "serviceFee": 25.0,
     "documents": [
-      "Passport Bio-data Page",
-      "Recent Passport-size Photo",
-      "Return Flight Ticket Confirmation"
+      "Passport Bio-data Page (6+ months validity)",
+      "Return Flight Ticket",
+      "Accommodation Details"
     ],
-    "smartTip": "US Citizens are required to get a Multi-entry visa for Tanzania, even for single visits.",
-    "officialGovLink": "https://visa.immigration.go.tz/"
+    "smartTip": "Kenya replaced visas with an eTA. Approval is mandatory even for visa-free nationals.",
+    "officialGovLink": "https://www.etakenya.go.ke/"
   },
   {
-    "origin": "United Kingdom",
-    "destination": "Kenya",
-    "govFee": 30.0,
+    "origin": "United States",
+    "destination": "Tanzania",
+    "govFee": 100.0,
     "serviceFee": 25.0,
     "documents": [
       "Passport Bio-data Page",
-      "Hotel Reservation or Invite Letter",
-      "Digital Passport Photo"
+      "Recent Passport-size Photo",
+      "Return Flight Ticket"
     ],
-    "smartTip": "Kenya has replaced the e-Visa with the eTA system. Apply at least 72 hours before travel.",
+    "smartTip": "US citizens must pay a $100 multiple-entry visa fee even for short stays.",
+    "officialGovLink": "https://visa.immigration.go.tz/"
+  },
+  {
+    "origin": "United States",
+    "destination": "Uganda",
+    "govFee": 50.0,
+    "serviceFee": 25.0,
+    "documents": [
+      "Passport Bio-data Page",
+      "Yellow Fever Certificate",
+      "Return Flight Ticket"
+    ],
+    "smartTip": "Uganda visas must be obtained online before travel.",
+    "officialGovLink": "https://visas.immigration.go.ug/"
+  },
+  {
+    "origin": "United States",
+    "destination": "Rwanda",
+    "govFee": 50.0,
+    "serviceFee": 25.0,
+    "documents": [
+      "Passport Bio-data Page",
+      "Return Flight Ticket"
+    ],
+    "smartTip": "Rwanda offers visa on arrival for US citizens.",
+    "officialGovLink": "https://irembo.gov.rw/"
+  },
+
+  {
+    "origin": "China",
+    "destination": "Kenya",
+    "govFee": 32.5,
+    "serviceFee": 25.0,
+    "documents": [
+      "Passport (6+ months validity)",
+      "Passport Photo",
+      "Accommodation Details",
+      "Return Ticket"
+    ],
+    "smartTip": "Chinese nationals must apply for Kenya eTA before travel.",
     "officialGovLink": "https://www.etakenya.go.ke/"
+  },
+  {
+    "origin": "China",
+    "destination": "Tanzania",
+    "govFee": 50.0,
+    "serviceFee": 25.0,
+    "documents": [
+      "Passport",
+      "Passport Photo",
+      "Return Ticket"
+    ],
+    "smartTip": "Tanzania eVisa is recommended for Chinese travelers.",
+    "officialGovLink": "https://visa.immigration.go.tz/"
+  },
+  {
+    "origin": "China",
+    "destination": "Rwanda",
+    "govFee": 50.0,
+    "serviceFee": 25.0,
+    "documents": [
+      "Passport",
+      "Return Ticket"
+    ],
+    "smartTip": "Visa on arrival available for Chinese citizens.",
+    "officialGovLink": "https://irembo.gov.rw/"
+  },
+  {
+    "origin": "China",
+    "destination": "Egypt",
+    "govFee": 25.0,
+    "serviceFee": 25.0,
+    "documents": [
+      "Passport",
+      "Hotel Booking",
+      "Return Ticket"
+    ],
+    "smartTip": "Egypt eVisa available for Chinese nationals.",
+    "officialGovLink": "https://visa2egypt.gov.eg/"
+  },
+
+  {
+    "origin": "Italy",
+    "destination": "Kenya",
+    "govFee": 32.5,
+    "serviceFee": 25.0,
+    "documents": [
+      "Passport",
+      "Return Ticket",
+      "Accommodation Details"
+    ],
+    "smartTip": "Italian citizens must apply for Kenya eTA online.",
+    "officialGovLink": "https://www.etakenya.go.ke/"
+  },
+  {
+    "origin": "Italy",
+    "destination": "Tanzania",
+    "govFee": 50.0,
+    "serviceFee": 25.0,
+    "documents": [
+      "Passport",
+      "Return Ticket"
+    ],
+    "smartTip": "Visa on arrival or eVisa available for Italians.",
+    "officialGovLink": "https://visa.immigration.go.tz/"
+  },
+  {
+    "origin": "Italy",
+    "destination": "Morocco",
+    "govFee": 0.0,
+    "serviceFee": 25.0,
+    "documents": [
+      "Passport"
+    ],
+    "smartTip": "Visa-free entry for Italians up to 90 days.",
+    "officialGovLink": "https://www.consulat.ma/"
+  },
+  {
+    "origin": "Italy",
+    "destination": "Egypt",
+    "govFee": 25.0,
+    "serviceFee": 25.0,
+    "documents": [
+      "Passport",
+      "Return Ticket"
+    ],
+    "smartTip": "Egypt eVisa available for Italian passport holders.",
+    "officialGovLink": "https://visa2egypt.gov.eg/"
+  },
+
+  {
+    "origin": "Germany",
+    "destination": "Kenya",
+    "govFee": 32.5,
+    "serviceFee": 25.0,
+    "documents": [
+      "Passport",
+      "Return Ticket",
+      "Accommodation Details"
+    ],
+    "smartTip": "German citizens must apply for Kenya eTA before arrival.",
+    "officialGovLink": "https://www.etakenya.go.ke/"
+  },
+  {
+    "origin": "Germany",
+    "destination": "Tanzania",
+    "govFee": 50.0,
+    "serviceFee": 25.0,
+    "documents": [
+      "Passport",
+      "Return Ticket"
+    ],
+    "smartTip": "German passport holders can use eVisa or visa on arrival.",
+    "officialGovLink": "https://visa.immigration.go.tz/"
+  },
+  {
+    "origin": "Germany",
+    "destination": "Uganda",
+    "govFee": 50.0,
+    "serviceFee": 25.0,
+    "documents": [
+      "Passport",
+      "Yellow Fever Certificate"
+    ],
+    "smartTip": "Uganda requires online visa approval before travel.",
+    "officialGovLink": "https://visas.immigration.go.ug/"
   },
   {
     "origin": "Germany",
     "destination": "Rwanda",
     "govFee": 50.0,
-    "serviceFee": 20.0,
+    "serviceFee": 25.0,
     "documents": [
-      "Passport Valid for 6 Months",
-      "Yellow Fever Vaccination Certificate",
-      "Travel Itinerary"
+      "Passport"
     ],
-    "smartTip": "Are you visiting Kenya and Uganda too? Ask us about the East Africa Tourist Visa to save $80!",
+    "smartTip": "Visa on arrival available for German citizens.",
     "officialGovLink": "https://irembo.gov.rw/"
   },
   {
-    "origin": "United Kingdom",
-    "destination": "Uganda",
-    "govFee": 50.0,
-    "serviceFee": 25.0,
-    "documents": [
-      "Passport Bio-data Page",
-      "Yellow Fever Vaccination Certificate",
-      "Recent Passport Photo"
-    ],
-    "smartTip": "Uganda no longer issues visas on arrival. You must apply and pay online before travel.",
-    "officialGovLink": "https://visas.immigration.go.ug/"
-  },
-  {
-    "origin": "United States",
-    "destination": "Egypt",
-    "govFee": 25.0,
-    "serviceFee": 20.0,
-    "documents": [
-      "Passport Valid for 6 Months",
-      "Travel Itinerary",
-      "Hotel Booking Details"
-    ],
-    "smartTip": "The e-Visa is valid for 30 days. Ensure you use the official portal to avoid 'agency' surcharges.",
-    "officialGovLink": "https://www.visa2egypt.gov.eg/"
-  },
-  {
-    "origin": "France",
-    "destination": "Ghana",
-    "govFee": 60.0,
-    "serviceFee": 35.0,
-    "documents": [
-      "Passport Bio-data Page",
-      "Evidence of Financial Support",
-      "Yellow Fever Certificate"
-    ],
-    "smartTip": "Ghana is strict on documentation; ensure your invitation letter includes a copy of the host's ID.",
-    "officialGovLink": "https://www.ghanaevisa.com/"
-  },
-  {
-    "origin": "United Kingdom",
-    "destination": "Zimbabwe",
-    "govFee": 55.0,
-    "serviceFee": 20.0,
-    "documents": [
-      "Passport Bio-data Page",
-      "Proof of Residence/Hotel",
-      "Previous Zimbabwe Visa (if any)"
-    ],
-    "smartTip": "Ask for the KAZA UniVisa if you plan to cross the Victoria Falls bridge into Zambia.",
-    "officialGovLink": "https://www.evisa.gov.zw/"
-  },
-  {
     "origin": "Germany",
-    "destination": "Zambia",
+    "destination": "South Africa",
     "govFee": 0.0,
-    "serviceFee": 15.0,
-    "documents": [
-      "Passport Bio-data Page",
-      "Passport Size Photo",
-      "Cover Letter"
-    ],
-    "smartTip": "Zambia has waived visa fees for many countries including EU/US/UK to boost tourism.",
-    "officialGovLink": "https://eservices.zambiaimmigration.gov.zm/"
-  },
-  {
-    "origin": "United States",
-    "destination": "Ethiopia",
-    "govFee": 82.0,
     "serviceFee": 25.0,
     "documents": [
-      "Passport Bio-data Page",
-      "Recent Passport Photo"
+      "Passport",
+      "Return Ticket"
     ],
-    "smartTip": "The Ethiopian e-Visa is only valid for entry via Addis Ababa Bole International Airport.",
-    "officialGovLink": "https://www.evisa.gov.et/"
-  },
-  {
-    "origin": "United Kingdom",
-    "destination": "Malawi",
-    "govFee": 50.0,
-    "serviceFee": 20.0,
-    "documents": [
-      "Passport Bio-data Page",
-      "Passport Photo",
-      "Flight Confirmation"
-    ],
-    "smartTip": "Malawi recently streamlined their e-Visa process; approval typically takes 3 to 5 working days.",
-    "officialGovLink": "https://www.evisa.gov.mw/"
-  },
-  {
-    "origin": "Canada",
-    "destination": "Morocco",
-    "govFee": 0.0,
-    "serviceFee": 0.0,
-    "documents": [
-      "Passport Valid for 6 Months",
-      "Proof of Sufficient Funds"
-    ],
-    "smartTip": "Visa-free for up to 90 days for most Western citizens. Ensure your passport is stamped on arrival.",
-    "officialGovLink": "https://www.acces-maroc.ma/"
+    "smartTip": "Germany passport holders enjoy 90-day visa-free entry.",
+    "officialGovLink": "http://www.dha.gov.za/"
   },
   {
     "origin": "Germany",
     "destination": "Namibia",
-    "govFee": 60.0,
-    "serviceFee": 20.0,
-    "documents": [
-      "Passport Bio-data Page",
-      "Itinerary",
-      "Yellow Fever (if coming from risk zone)"
-    ],
-    "smartTip": "Namibia has introduced a digital e-Visa for tourists, though many EU nations remain visa-exempt.",
-    "officialGovLink": "https://eservices.mhaiss.gov.na/"
-  },
-  {
-    "origin": "United States",
-    "destination": "South Africa",
     "govFee": 0.0,
-    "serviceFee": 0.0,
-    "documents": [
-      "Passport with 2 Blank Pages",
-      "Onward Travel Ticket"
-    ],
-    "smartTip": "Visa-exempt for 90 days. Ensure you have at least two consecutive blank pages in your passport.",
-    "officialGovLink": "https://www.dha.gov.za/"
-  },
-  {
-    "origin": "France",
-    "destination": "Ivory Coast",
-    "govFee": 75.0,
     "serviceFee": 25.0,
     "documents": [
-      "Passport Bio-data Page",
-      "Pre-enrollment Receipt",
-      "Yellow Fever Certificate"
-    ],
-    "smartTip": "You must pay online and receive an 'Airport Enrollment' receipt to fly to Abidjan.",
-    "officialGovLink": "https://snedai.com/e-visa/"
-  },
-  {
-    "origin": "United Kingdom",
-    "destination": "Botswana",
-    "govFee": 0.0,
-    "serviceFee": 0.0,
-    "documents": [
-      "Passport Valid for 6 Months",
-      "Return Flight Details"
-    ],
-    "smartTip": "Visa-free for most Commonwealth and EU citizens for up to 90 days.",
-    "officialGovLink": "https://www.gov.bw/visa-applications"
-  },
-  {
-    "origin": "Spain",
-    "destination": "Senegal",
-    "govFee": 0.0,
-    "serviceFee": 10.0,
-    "documents": [
-      "Passport Bio-data Page",
-      "Hotel Confirmation"
-    ],
-    "smartTip": "Senegal is visa-free for most EU and US citizens, but a small airport security tax may apply.",
-    "officialGovLink": "http://www.visasenegal.sn/"
-  },
-  {
-    "origin": "United States",
-    "destination": "Madagascar",
-    "govFee": 37.0,
-    "serviceFee": 15.0,
-    "documents": [
-      "Passport Bio-data Page",
+      "Passport",
       "Return Ticket"
     ],
-    "smartTip": "You can pay for your visa on arrival in Euros or USD, or apply via the e-Visa portal.",
-    "officialGovLink": "https://evisamada.gov.mg/"
-    {
-"origin": "United Kingdom",
-"destination": "Uganda",
-"govFee": 50.0,
-"serviceFee": 0.0,
-"documents": [
-"Passport with 6 Months Validity",
-"Yellow Fever Vaccination Certificate",
-"Recent Passport-size Photograph",
-"Travel Itinerary / Return Ticket"
-],
-"smartTip": "Uganda is a 'strict' E-Visa country; you must apply online and receive an approval letter before boarding. Visas on arrival are no longer standard.",
-"officialGovLink": "https://visas.immigration.go.ug/"
-}
-  },
-  {
-    "origin": "Netherlands",
-    "destination": "Mauritius",
-    "govFee": 0.0,
-    "serviceFee": 0.0,
-    "documents": [
-      "Passport Valid for Duration of Stay",
-      "Proof of Accommodation"
-    ],
-    "smartTip": "Visa-free for tourism. You must fill out the 'All-in-One' travel form before landing.",
-    "officialGovLink": "https://safemauritius.govmu.org/"
-  },
-  {
-    "origin": "United Kingdom",
-    "destination": "Nigeria",
-    "govFee": 160.0,
-    "serviceFee": 50.0,
-    "documents": [
-      "Passport Bio-data Page",
-      "Invitation Letter",
-      "CAC Certificate of Host Company"
-    ],
-    "smartTip": "Nigeria's Visa on Arrival (VoA) is only for business; tourists must apply at an embassy or e-portal.",
-    "officialGovLink": "https://portal.immigration.gov.ng/"
-  },
-  {
-    "origin": "Italy",
-    "destination": "Benin",
-    "govFee": 50.0,
-    "serviceFee": 15.0,
-    "documents": [
-      "Passport Bio-data Page",
-      "Digital Photo"
-    ],
-    "smartTip": "Benin has one of the fastest e-Visa systems in Africa, often approved in under 24 hours.",
-    "officialGovLink": "https://evisa.gouv.bj/"
-  },
-  {
-    "origin": "United States",
-    "destination": "Cabo Verde",
-    "govFee": 35.0,
-    "serviceFee": 10.0,
-    "documents": [
-      "Passport Bio-data Page",
-      "Arrival Registration Form"
-    ],
-    "smartTip": "Technically visa-free, but you must pay the 'EASE' Airport Security Tax at least 5 days before travel.",
-    "officialGovLink": "https://www.ease.gov.cv/"
+    "smartTip": "Namibia is visa-free for German tourists up to 90 days.",
+    "officialGovLink": "https://www.mha.gov.na/"
   },
   {
     "origin": "Germany",
-    "destination": "Gabon",
-    "govFee": 80.0,
-    "serviceFee": 30.0,
+    "destination": "Egypt",
+    "govFee": 25.0,
+    "serviceFee": 25.0,
     "documents": [
-      "Passport Bio-data Page",
-      "Hotel Reservation",
-      "Yellow Fever Certificate"
+      "Passport",
+      "Return Ticket"
     ],
-    "smartTip": "The e-Visa is valid for entry specifically through Leon Mba International Airport in Libreville.",
-    "officialGovLink": "https://evisa.dgdi.ga/"
-  },
-  {
-    "origin": "United Kingdom",
-    "destination": "Sierra Leone",
-    "govFee": 80.0,
-    "serviceFee": 20.0,
-    "documents": [
-      "Passport Bio-data Page",
-      "Yellow Fever Certificate",
-      "Proof of Accommodation"
-    ],
-    "smartTip": "Visas can be obtained on arrival, but using the e-Visa portal is recommended for faster clearance.",
-    "officialGovLink": "https://www.evisa.sl/"
-  },
-  {
-    "origin": "France",
-    "destination": "Djibouti",
-    "govFee": 23.0,
-    "serviceFee": 15.0,
-    "documents": [
-      "Passport Bio-data Page",
-      "Flight Invitation",
-      "Photo"
-    ],
-    "smartTip": "Ensure your e-Visa printout is with you; digital copies are sometimes rejected at checkpoints.",
-    "officialGovLink": "https://www.evisa.gouv.dj/"
-  },
-  {
-    "origin": "United States",
-    "destination": "Mozambique",
-    "govFee": 11.0,
-    "serviceFee": 10.0,
-    "documents": [
-      "Passport Bio-data Page",
-      "Return Flight Ticket"
-    ],
-    "smartTip": "Mozambique introduced a 'Visa Waiver' for 28 countries. You just pay a small processing fee online.",
-    "officialGovLink": "https://evisa.gov.mz/"
+    "smartTip": "German travelers can apply for Egypt eVisa online.",
+    "officialGovLink": "https://visa2egypt.gov.eg/"
   },
   {
     "origin": "Germany",
-    "destination": "Cameroon",
-    "govFee": 160.0,
-    "serviceFee": 40.0,
-    "documents": [
-      "Passport Bio-data Page",
-      "Yellow Fever Certificate",
-      "Legalized Invitation"
-    ],
-    "smartTip": "Cameroon moved to a 100% digital e-Visa system in 2023. No more physical embassy visits.",
-    "officialGovLink": "https://www.evisacam.cm/"
-  },
-  {
-    "origin": "United Kingdom",
-    "destination": "Seychelles",
-    "govFee": 10.0,
-    "serviceFee": 5.0,
-    "documents": [
-      "Passport Bio-data Page",
-      "Flight Itinerary",
-      "Proof of Funds"
-    ],
-    "smartTip": "Seychelles is visa-free, but the 'Travel Authorization' is mandatory for all arrivals.",
-    "officialGovLink": "https://seychelles.govtas.com/"
-  },
-  {
-    "origin": "Canada",
     "destination": "Tunisia",
     "govFee": 0.0,
-    "serviceFee": 0.0,
+    "serviceFee": 25.0,
     "documents": [
-      "Passport Valid for 6 Months",
-      "Hotel Voucher"
+      "Passport"
     ],
-    "smartTip": "Visa-free for Canadians and most Europeans for up to 4 months.",
-    "officialGovLink": "https://www.diplomatie.gov.tn/"
-  },
-  {
-    "origin": "United States",
-    "destination": "Angola",
-    "govFee": 0.0,
-    "serviceFee": 0.0,
-    "documents": [
-      "Passport with 6 Months Validity",
-      "Yellow Fever Certificate"
-    ],
-    "smartTip": "Angola recently abolished tourist visas for US and EU citizens for stays up to 30 days.",
-    "officialGovLink": "https://www.smevisa.gov.ao/"
-
-    [
-  {
-    "origin": "United Kingdom",
-    "destination": "Uganda",
-    "govFee": 50.0,
-    "serviceFee": 0.0,
-    "documents": [
-      "Passport with 6 Months Validity",
-      "Yellow Fever Vaccination Certificate",
-      "Recent Passport-size Photograph",
-      "Return Flight Ticket"
-    ],
-    "smartTip": "Uganda has transitioned to a mandatory E-Visa system; ensure you have your approval letter printed before travel as visas on arrival are no longer issued.",
-    "officialGovLink": "https://visas.immigration.go.ug/"
-  },
-  {
-    "origin": "United Kingdom",
-    "destination": "Zambia",
-    "govFee": 0.0,
-    "serviceFee": 0.0,
-    "documents": [
-      "Passport with 6 Months Validity",
-      "Proof of Onward Travel",
-      "Sufficient Funds Declaration"
-    ],
-    "smartTip": "British nationals are visa-exempt for tourism and business visits up to 90 days per calendar year.",
-    "officialGovLink": "https://www.zambiaimmigration.gov.zm/"
-  },
-  {
-    "origin": "United Kingdom",
-    "destination": "Mauritius",
-    "govFee": 0.0,
-    "serviceFee": 0.0,
-    "documents": [
-      "Passport Valid for Duration of Stay",
-      "Mauritius All-in-One Digital Travel Form",
-      "Confirmed Accommodation",
-      "Return Ticket"
-    ],
-    "smartTip": "No visa is required for UK citizens for stays up to 180 days. The digital travel form should be completed 72 hours before arrival.",
-    "officialGovLink": "https://safemauritius.govmu.org/"
-  },
-  {
-    "origin": "United Kingdom",
-    "destination": "Kenya",
-    "govFee": 30.0,
-    "serviceFee": 0.0,
-    "documents": [
-      "Passport with 6 Months Validity",
-      "Electronic Travel Authorisation (eTA)",
-      "Proof of Accommodation",
-      "Travel Itinerary"
-    ],
-    "smartTip": "Kenya is now 'visa-free' but requires a mandatory eTA for all visitors. Apply at least 2 weeks in advance via the official portal.",
-    "officialGovLink": "https://www.etakenya.go.ke/"
-  },
-  {
-    "origin": "United Kingdom",
-    "destination": "Madagascar",
-    "govFee": 10.0,
-    "serviceFee": 0.0,
-    "documents": [
-      "Passport with 6 Months Validity",
-      "Return Flight Ticket",
-      "Entry Administrative Fee"
-    ],
-    "smartTip": "Stays under 15 days are visa-exempt but require a small administrative fee paid upon arrival. For stays up to 30 or 60 days, a paid e-visa is required.",
-    "officialGovLink": "https://evisamada.gov.mg/"
-  },
-  {
-    "origin": "United Kingdom",
-    "destination": "Mozambique",
-    "govFee": 10.0,
-    "serviceFee": 0.0,
-    "documents": [
-      "Passport with 6 Months Validity",
-      "Pre-registration Receipt",
-      "Return Ticket",
-      "Accommodation Confirmation"
-    ],
-    "smartTip": "UK citizens are exempt from visitor visas for stays up to 30 days but must pre-register on the e-visa portal 48 hours before arrival.",
-    "officialGovLink": "https://evisa.gov.mz/"
-  },
-
-  {
-    "origin": "Germany",
-    "destination": "Togo",
-    "govFee": 35.0,
-    "serviceFee": 15.0,
-    "documents": [
-      "Passport Bio-data Page",
-      "Digital Photo",
-      "Yellow Fever Certificate"
-    ],
-    "smartTip": "All travelers must register on the 'Voyage Togo' portal before departure.",
-    "officialGovLink": "https://voyage.gouv.tg/"
+    "smartTip": "Tunisia offers visa-free entry for German nationals.",
+    "officialGovLink": "http://www.diplomatie.gov.tn/"
   }
 ]
