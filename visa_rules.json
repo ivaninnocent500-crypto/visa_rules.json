@@ -213,6 +213,15 @@
     "smartTip": "Germany passport holders enjoy 90-day visa-free entry.",
     "officialGovLink": "http://www.dha.gov.za/"
   },
+   {
+    "origin": "United Kingdom",
+    "destination": "Egypt",
+    "govFee": 25.0,
+    "serviceFee": 25.0,
+    "documents": ["Passport", "Return Ticket"],
+    "smartTip": "UK citizens can apply for Egypt eVisa or get visa on arrival.",
+    "officialGovLink": "https://visa2egypt.gov.eg/"
+  },
   {
     "origin": "Germany",
     "destination": "Namibia",
