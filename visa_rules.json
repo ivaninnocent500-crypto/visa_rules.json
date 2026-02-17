@@ -2,7 +2,7 @@
   {
     "origin": "United States",
     "destination": "Kenya",
-    "govFee": 32.5,
+    "govFee": 100,
     "serviceFee": 28.0,
     "documents": [
       "Passport Bio-data Page (6+ months valid)",
